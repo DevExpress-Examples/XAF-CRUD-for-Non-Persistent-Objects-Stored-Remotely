@@ -48,9 +48,9 @@ The following classes are used to provide a common functionality for all non-per
 
 ## Files to Review
 
-* [Account.cs](./CS/EFCore/NonPersistentObjectsDemo/NonPersistentObjectsDemo.Module/BusinessObjects/Account.cs)
-* [PostOfficeStorage.cs](./CS/EFCore/NonPersistentObjectsDemo/NonPersistentObjectsDemo.Module/ServiceClasses/PostOfficeStorage.cs)
-* [TransientNonPersistentObjectAdapter.cs](./CS/EFCore/NonPersistentObjectsDemo/NonPersistentObjectsDemo.Module/ServiceClasses/TransientNonPersistentObjectAdapter.cs)
+* [Account.cs](./CS/EFCore/NonPersistentObjectsDemo.Module/BusinessObjects/Account.cs)
+* [PostOfficeStorage.cs](./CS/EFCore/NonPersistentObjectsDemo.Module/ServiceClasses/PostOfficeStorage.cs)
+* [TransientNonPersistentObjectAdapter.cs](./CS/EFCore/NonPersistentObjectsDemo.Module/ServiceClasses/TransientNonPersistentObjectAdapter.cs)
 
 ## Documentation
 
