@@ -30,7 +30,7 @@ Non-persistent objects are kept in an object map. XAF uses event handlers to man
    * [ObjectReloading](https://docs.devexpress.com/eXpressAppFramework/DevExpress.ExpressApp.NonPersistentObjectSpace.ObjectReloading)
 
 4. To process all object changes and pass them to storage:
-   * [CustomCommitChanges](https://docs.devexpress.com/eXpressAppFramework/DevExpress.ExpressApp.BaseObjectSpace.CustomCommitChanges?v=20.1)
+   * [CustomCommitChanges](https://docs.devexpress.com/eXpressAppFramework/DevExpress.ExpressApp.BaseObjectSpace.CustomCommitChanges)
 
 The [NonPersistentObjectSpace.AutoSetModifiedOnObjectChange](https://docs.devexpress.com/eXpressAppFramework/DevExpress.ExpressApp.NonPersistentObjectSpace.AutoSetModifiedOnObjectChange) property is set to `true` to automatically mark non-persistent objects as modified when XAF raises the `INotifyPropertyChanged.PropertyChanged` event.
 
