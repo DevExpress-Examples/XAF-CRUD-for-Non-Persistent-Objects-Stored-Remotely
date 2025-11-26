@@ -23,7 +23,6 @@ public sealed class NonPersistentObjectsDemoModule : ModuleBase {
         // NonPersistentObjectsDemoModule
         // 
         RequiredModuleTypes.Add(typeof(DevExpress.ExpressApp.SystemModule.SystemModule));
-        RequiredModuleTypes.Add(typeof(DevExpress.ExpressApp.Objects.BusinessClassLibraryCustomizationModule));
         RequiredModuleTypes.Add(typeof(DevExpress.ExpressApp.ConditionalAppearance.ConditionalAppearanceModule));
 
     }
