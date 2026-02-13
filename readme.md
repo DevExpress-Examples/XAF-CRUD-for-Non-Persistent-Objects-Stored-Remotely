@@ -75,7 +75,7 @@ This is a set of classes that represents external storage. These classes can be 
 
 * [How to: Perform CRUD Operations with Non-Persistent Objects](https://docs.devexpress.com/eXpressAppFramework/115672/business-model-design-orm/non-persistent-objects/how-to-perform-crud-operations-with-non-persistent-objects)
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=XAF-How-to-Implement-CRUD-Operations-for-Non-Persistent-Objects-Stored-Remotely&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=XAF-How-to-Implement-CRUD-Operations-for-Non-Persistent-Objects-Stored-Remotely&~~~was_helpful=no)
 
